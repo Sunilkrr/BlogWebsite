@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: opx;
+    box-sizing: border-box;
+
+}
+body{
+    margin: 20px;
+    background-color:purple;
+}
+h1{
+    color:white;
+}
+.s1{
+    color: white;
+}
+.s2{
+    color: white;
+}
+.s3{
+    color: white;
+}
+.para{
+    color: white;
+}
+ h2{
+    color: white;
+ }
+ .list{
+    color: white;
+ }
+ .order{
+    color: white;
+ }
+ 
+.s4{
+    color: white;
+}
